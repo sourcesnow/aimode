@@ -128,6 +128,14 @@ ENV/
 env.bak/
 venv.bak/
 
+# IntelliJ project files
+.idea
+.vscode
+*.iml
+out
+gen
+
+
 # Spyder project settings
 .spyderproject
 .spyproject
